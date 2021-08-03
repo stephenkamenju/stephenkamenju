@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning wed development
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me stephenkamnju@gmail.com
+- 📫 How to reach me stephenkamenju@gmail.com
 - 😜 C
 <!---
 stephenkamenju/stephenkamenju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
